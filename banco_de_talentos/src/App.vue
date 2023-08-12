@@ -1,9 +1,17 @@
 <template>
+  <body>
+ 
   <Menu />
 
   <router-view></router-view>
   
-  RODAPE
+     
+</body>
+
+  <footer>
+    <p>Todos os Direitos Reservados 2023 © banco de talentos</p>
+</footer>
+ 
 </template>
 
 
